@@ -3,9 +3,7 @@ import java.util.Comparator;
  * The comparator to help with sorting in folder class, this is subject descending sorting
  * 
  * @author
- *      XinCheng Chi, SBU ID#：111919385,Recition R30
- * Assignment:
- *      Homework #5 for CSE 214, Summer 2020
+ *      XinCheng Chi
  * Date:
  *      August 6,2020
  */
