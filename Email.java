@@ -8,9 +8,7 @@ import java.util.GregorianCalendar;
  * email, it have 6 member variables for to,cc,bcc,subject,body and timestamp.
  * 
  * @author
- *      XinCheng Chi, SBU ID#：111919385,Recition R30
- * Assignment:
- *      Homework #5 for CSE 214, Summer 2020
+ *      XinCheng Chi
  * Date:
  *      August 6,2020
  */
